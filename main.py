@@ -7,7 +7,7 @@ import json
 from parser import parse_data
 
 
-### Python parser to read data from ACLED database (www.acleddate.com)
+### Python parser to read data from ACLED database (www.acleddata.com)
 ### and upload formatted incidents to a firebase firestore database.
 ### Used for incident visualization.
 
